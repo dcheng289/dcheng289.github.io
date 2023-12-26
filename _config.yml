@@ -207,11 +207,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - repositories
-  - teaching
-  - people
-  - blog
-  - submenus
 keep_files:
   - CNAME
   - .nojekyll
