@@ -19,4 +19,3 @@ Data collection for forestry, timber, and agriculture relies on manual technique
 <div class="caption">
     TreeScope
 </div>
-{% endraw %}
