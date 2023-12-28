@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gecko Gripper
-description: a project with a background image
+description: Led software design as the only software engineer for product launch of IEEE-award winning Gecko Gripper
 img: assets/img/gecko-gripper.png
 importance: 2
 category: work

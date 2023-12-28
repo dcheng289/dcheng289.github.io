@@ -1,7 +1,8 @@
 ---
 layout: page
 title: OffWorld Diggerbot
-description: a project with a background image
+description: Coordinated with CTO to manage 10-month field testing campaign & successful deployment of first robot
+prototype in underground mine for excavation to conclude multi-year development cycle
 img: assets/img/diggerbot.png
 importance: 1
 category: work
