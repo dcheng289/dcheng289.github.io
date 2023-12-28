@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: OffWorld Diggerbot
+description: a project with a background image
+img: assets/img/diggerbot.png
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

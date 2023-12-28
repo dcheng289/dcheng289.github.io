@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Multi-Modal Deep Learning NeRFs for 3D Reconstruction of Tree Branching Factors Analysis
+description: Stay tuned!
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: research
 giscus_comments: true
 ---
 
