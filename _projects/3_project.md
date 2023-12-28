@@ -3,7 +3,7 @@ layout: page
 title: Chester the Air Hockey Robot
 description: a project that redirects to another website
 img: assets/img/chester-air-hockey.png
-# redirect: https://unsplash.com
+redirect: https://www.youtube.com/embed/AjJ8416kZDU
 importance: 3
 category: research
 ---

@@ -5,6 +5,7 @@ description: a project with a background image
 img: assets/img/gecko-gripper.png
 importance: 2
 category: work
+redirect: https://www.businesswire.com/news/home/20180802005528/en/OnRobot%E2%80%99s-Gecko-Gripper-Wins-2018-IERA-Award-for-Robotics-and-Automation
 ---
 
 Every project has a beautiful feature showcase page.

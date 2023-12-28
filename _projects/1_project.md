@@ -6,6 +6,7 @@ img: assets/img/treescope-cover.png
 importance: 1
 category: research
 related_publications: einstein1956investigations, einstein1950meaning
+redirect: https://treescope.org/
 ---
 
 <div class="row mt-3">
