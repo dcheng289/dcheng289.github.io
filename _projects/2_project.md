@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multi-Modal Deep Learning NeRFs for 3D Reconstruction of Tree Branching Factors Analysis
-description: Stay tuned!
+title: Neural 3D Scene Reconstruction
+description: Multi-Modal Deep Learning NeRFs for 3D Reconstruction of Tree Branching Factors Analysis
 img: assets/img/3.jpg
 importance: 2
 category: research
