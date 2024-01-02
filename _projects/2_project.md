@@ -5,5 +5,5 @@ description: My master's thesis (in-progress) investigates integrating multi-mod
 img: assets/img/nerf.jpg
 importance: 2
 category: research
-giscus_comments: true
+giscus_comments: false
 ---
