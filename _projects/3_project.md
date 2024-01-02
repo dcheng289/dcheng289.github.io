@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chester the Air Hockey Robot
-description: Software lead for USC Senior Capstone Project
+description: Software lead for USC Senior Capstone Project - I wrote the full software stack in C++ with OpenCV to capture puck motion for trajectory tracking and prediction 
 img: assets/img/chester-air-hockey.png
 redirect: https://www.youtube.com/watch?v=AjJ8416kZDU
 importance: 4

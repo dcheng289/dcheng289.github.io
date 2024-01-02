@@ -6,7 +6,7 @@ description: A snapshot of my robotics experiences between academia and industry
 nav: true
 nav_order: 2
 display_categories: [research, work]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

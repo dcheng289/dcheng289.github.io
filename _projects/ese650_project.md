@@ -5,7 +5,7 @@ description: Using deep learning to improve bounding box detection with single-s
 img: assets/img/ese650.png
 importance: 3
 category: research
-redirect: assets/pdf/ese650.pdf
+redirect: https://drive.google.com/file/d/1CVSxKQ8uNtw85QS_JIcJfCyMkNQXpfSG/view?usp=sharing
 giscus_comments: true
 ---
 

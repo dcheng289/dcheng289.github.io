@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TreeScope - Agricultural Robotics Dataset
-description: TreeScope is the first robotics dataset for precision agriculture and forestry addressing the counting and mapping of trees in forestry and orchards (ICRA 2024). 
+description: TreeScope (submitted to ICRA 2024) is the first robotics dataset for precision agriculture and forestry addressing the counting and mapping of trees in forestry and orchards to enable diameter estimation and semantic segmentation using LiDAR data.
 img: assets/img/treescope-cover.png
 importance: 1
 category: research
