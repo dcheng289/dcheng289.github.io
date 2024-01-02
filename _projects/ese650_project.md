@@ -1,18 +1,26 @@
 ---
 layout: page
-title: Chester the Air Hockey Robot
-description: Software lead for USC Senior Capstone Project
-img: assets/img/chester-air-hockey.png
-redirect: https://www.youtube.com/watch?v=AjJ8416kZDU
-importance: 4
+title: Predicting Cuboids from Partial LiDAR Point Clouds with PointRCNN
+description: Using deep learning to improve bounding box detection with single-shot LiDAR scans
+img: assets/img/ese650.png
+importance: 3
 category: research
+redirect: assets/pdf/ese650.pdf
+giscus_comments: true
 ---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/AjJ8416kZDU" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
